@@ -10,7 +10,7 @@
 	<properties>
 		<java-version>1.6</java-version>
 		<jackson-version>1.9.13</jackson-version>
-		<fasterxml-version>2.2.3</fasterxml-version>
+		<fasterxml-version>2.7.9.6</fasterxml-version>
 		<org.springframework-version>3.1.0.RELEASE</org.springframework-version>
 		<org.springframework-security-version>3.1.4.RELEASE</org.springframework-security-version>
 		<org.aspectj-version>1.6.10</org.aspectj-version>
@@ -18,7 +18,7 @@
 		<sm-core.jodatime.version>2.0</sm-core.jodatime.version>
 		<sm-core.jodatime-hibernate.version>1.3</sm-core.jodatime-hibernate.version>
 		<sm-core.version>2.0.0-SNAPSHOT</sm-core.version>
-		<sm-search.version>0.0.3</sm-search.version>
+		<sm-search.version>0.0.5</sm-search.version>
 	</properties>
 	<dependencies>
 
@@ -243,7 +243,7 @@
 		<dependency>
 			<groupId>commons-collections</groupId>
 			<artifactId>commons-collections</artifactId>
-			<version>3.2.1</version>
+			<version>3.2.2</version>
 		</dependency>
 
 		<dependency>
